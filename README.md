@@ -6,13 +6,13 @@ Image stitching and alignment across rounds also implemented.
 ## Software
 
 ### General Image Analysis
- - Napari
+ - [Napari](https://napari.org/stable/)
  - Python Imaging Library
  - OpenCV
  - Scikit-image
 
 ### Image Processing and Segmentation
- - Cellpose
+ - [Cellpose](https://www.cellpose.org/)
 
 ### Analysis
  - Scikit-Learn
@@ -27,7 +27,7 @@ Image stitching and alignment across rounds also implemented.
  - Pandas
 
 ## Data
- - JUMP Cell Painting Consortium Data
+ - [JUMP Cell Painting Consortium Data](https://jump-cellpainting.broadinstitute.org/)
  - Tumor Sample 20X Tissue Data
 
 Check out the workflows!
